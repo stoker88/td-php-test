@@ -23,6 +23,10 @@ When writing your application, you should consider the following.
 3. Write tests using ``PHPUnit``.
 4. Use TDD to help you write clean and testable code.
 
+# Submitting
+
+Once you have completed, you can submit it by creating a public repository on github and sending link to us.
+
 # Help
 
 1. https://github.com/JamesHeinrich/getID3
