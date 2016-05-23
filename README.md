@@ -18,7 +18,7 @@ The endpoint you must implement should do as follows:
 
 When writing your application, you should consider the following.
 
-1. Make sure you are following the SOLID princles.
+1. Make sure you are following the SOLID principles.
 2. Make sure your following styling standards like PSR-2.
 3. Write tests using ``PHPUnit``.
 4. Use TDD to help you write clean and testable code.
