@@ -32,3 +32,4 @@ When writing your application, you should consider the following.
 5. https://github.com/JamesHeinrich/getID3/blob/master/structure.txt
 6. https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md
 7. https://lumen.laravel.com/docs/5.2/testing
+8. https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)
