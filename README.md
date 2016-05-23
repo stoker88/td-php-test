@@ -4,7 +4,7 @@ This is a PHP test that will help show your knowledge with creating APIs and dea
 
 # The Task
 
-Your task is to create a simple API application using Lumen. The API should have a single endpoint, but should be written with future endpoints in mind. 
+Your task is to create a simple API application using the Lumen Framework. The API should have a single endpoint, but should be written with future endpoints in mind. 
 
 The endpoint you must implement should do as follows: 
 
