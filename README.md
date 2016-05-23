@@ -20,7 +20,8 @@ When writing your application, you should consider the following.
 
 1. Make sure you are following the SOLID princles.
 2. Make sure your following styling standards like PSR-2.
-3. Use TDD to help you write clean and testable code.
+3. Write tests using ``PHPUnit``.
+4. Use TDD to help you write clean and testable code.
 
 # Help
 
@@ -30,3 +31,4 @@ When writing your application, you should consider the following.
 4. https://lumen.laravel.com/docs/5.2/requests#files
 5. https://github.com/JamesHeinrich/getID3/blob/master/structure.txt
 6. https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md
+7. https://lumen.laravel.com/docs/5.2/testing
