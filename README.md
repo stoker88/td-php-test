@@ -25,7 +25,7 @@ When writing your application, you should consider the following.
 
 # Submitting
 
-Once you have completed, you can submit it by creating a public repository on github and sending link to us.
+Once you have completed, you can submit it by creating a public repository on github (or a like) and provide us with a link.
 
 # Help
 
